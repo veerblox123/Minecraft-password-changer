@@ -1,3 +1,6 @@
 discord.py>=2.3.0
 playwright>=1.40.0
 asyncio
+discord.py
+python-dotenv
+playwright
