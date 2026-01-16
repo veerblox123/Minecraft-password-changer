@@ -19,3 +19,13 @@ An automated Discord bot that performs Microsoft account information scraping an
    ```bash
    git clone https://github.com/veerblox123/Minecraft-password-changer
    cd PASSCHANGEBOT
+
+Create a .env file in the root folder:
+``` DISCORD_TOKEN=your_bot_token_here ```
+
+🎮 Usage
+Start the bot: python bot.py
+
+Use the Slash Command in Discord: /cpass email:<email> password:<pass> new_password:<new_pass>
+
+If a Captcha appears, reply to the bot's image message with the code.
